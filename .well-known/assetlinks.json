@@ -1,0 +1,9 @@
+[{
+    "relation" : [],
+    "target" : {
+        "namespace": "",
+        "package_name": "com.example.iseng",
+        "sha256_cert_fingerprints":
+        ["61:A0:52:93:13:B5:9B:59:07:34:2F:B0:CA:51:21:46:40:1D:57:2D:CA:BC:06:E8:8F:73:59:C2:C2:A3:A2:9C"]
+    }
+}]
